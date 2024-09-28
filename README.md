@@ -1,7 +1,3 @@
-Here’s a **README** file template for your project, which you can modify and upload to GitHub:
-
----
-
 # UpTodo - Multi-Feature Productivity App
 
 EfficientLife is an Android application designed to help users manage their daily tasks efficiently by offering a combination of task management, timers, and reminders. The app allows users to add, edit, and delete tasks, track time spent on activities, and set reminders for upcoming tasks or deadlines. It also includes a home screen widget to display upcoming tasks or reminders as an advanced feature.
