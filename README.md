@@ -35,7 +35,7 @@ EfficientLife is an Android application designed to help users manage their dail
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/EfficientLife.git
+   git clone https://github.com/chathuwa-whiz/UpTodo_MAD-Exam-3.git
    ```
 
 2. Open the project in Android Studio.
