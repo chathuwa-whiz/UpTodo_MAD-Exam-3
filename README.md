@@ -55,8 +55,6 @@ EfficientLife is an Android application designed to help users manage their dail
 
 ## Screenshots
 
-Include screenshots of your app in action (optional but recommended). Example:
-
 | Task List Page                         | Timer Page                      | Reminder Page                         | Home Screen Widget                |
 |----------------------------------------|---------------------------------|---------------------------------------|-----------------------------------|
 | ![Task List](screenshots/tasklist.png) | ![Timer](screenshots/timer.png) | ![Reminder](screenshots/reminder.png) | ![Widget](screenshots/widget.png) |
